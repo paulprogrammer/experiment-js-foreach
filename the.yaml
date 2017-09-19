@@ -1,0 +1,8 @@
+---
+top:
+  obj:
+    foo: bar
+    baz: quux
+  arr:
+    - bar
+    - quux

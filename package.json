@@ -1,0 +1,17 @@
+{
+	"name": "expariment-js-foreach",
+	"version": "1.0.0",
+	"description": "A simple test of how node reads yaml files and foreach interacts with different yaml structures",
+	"author": "Paul Williams <williamspaul@google.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/paulprogrammer/experiment-js-foreach"
+	},
+	"bugs": {
+		"url": "https://github.com/paulprogrammer/experiment-js-foreach/issues"
+	},
+	"dependencies": {
+		"yaml-js": "latest"
+	},
+	"license": "0BSD"
+}
